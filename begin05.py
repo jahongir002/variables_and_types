@@ -5,4 +5,4 @@ b = 3
 # Assign 5 (int value) to 'c' variable;
 c = 5
 # Print the sum of three variables 'a', 'b', 'c';
-print(a+b+c)
+Print(a+b+c)
